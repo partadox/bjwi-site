@@ -40,7 +40,7 @@
 				<ul class="navbar-nav nav ml-auto">
 					<li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
 					<li class="nav-item"><a href="#company-section" class="nav-link"
-							style="color:white;"><span>Company</span></a></li>
+							style="color:white;"><span>Material</span></a></li>
 					<li class="nav-item"><a href="#production-section" class="nav-link"
 							style="color:white;"><span>Production</span></a></li>
 					<li class="nav-item"><a href="#about-section" class="nav-link"
@@ -130,7 +130,7 @@
             </div>
           </div>
           <div class="col-md-8 ftco-animate p-4 p-md-5 d-flex align-items-center">
-            
+
             <div class="tab-content pl-md-5" id="v-pills-tabContent">
 
               <div class="tab-pane fade show active py-5" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
@@ -352,8 +352,8 @@
 						<div class="counter-wrap ftco-animate d-flex mt-md-3">
 							<div class="text p-4 bg-primary">
 								<p class="mb-0">
-									<span class="number" data-number="1">0</span>
-									<span>Our Journey has Just Begun</span>
+									<span class="number">1<sup>st</sup> Year</span>
+									<span>Our Journey</span>
 								</p>
 							</div>
 						</div>
@@ -362,190 +362,6 @@
 			</div>
 		</div>
 	</section>
-
-	<!-- <section class="ftco-section">
-    	<div class="container">
-    		<div class="row justify-content-center pb-5">
-          <div class="col-md-6 heading-section text-center ftco-animate">
-          	<span class="subheading">About Us</span>
-            <h2 class="mb-4">Our Staff</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-          </div>
-        </div>
-        <div class="row">
-					<div class="col-md-6 col-lg-3 ftco-animate">
-						<div class="staff">
-							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(images/staff-1.jpg);"></div>
-							</div>
-							<div class="text d-flex align-items-center pt-3 text-center">
-								<div>
-									<h3 class="mb-2">Lloyd Wilson</h3>
-									<span class="position mb-4">CEO, Founder</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-			                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-			              </ul>
-		              </div>
-		            </div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 col-lg-3 ftco-animate">
-						<div class="staff">
-							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(images/staff-2.jpg);"></div>
-							</div>
-							<div class="text d-flex align-items-center pt-3 text-center">
-								<div>
-									<h3 class="mb-2">Rachel Parker</h3>
-									<span class="position mb-4">Web Designer</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-			                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-			              </ul>
-		              </div>
-		            </div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 col-lg-3 ftco-animate">
-						<div class="staff">
-							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(images/staff-3.jpg);"></div>
-							</div>
-							<div class="text d-flex align-items-center pt-3 text-center">
-								<div>
-									<h3 class="mb-2">Ian Smith</h3>
-									<span class="position mb-4">Web Developer</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-			                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-			              </ul>
-		              </div>
-		            </div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 col-lg-3 ftco-animate">
-						<div class="staff">
-							<div class="img-wrap d-flex align-items-stretch">
-								<div class="img align-self-stretch" style="background-image: url(images/staff-4.jpg);"></div>
-							</div>
-							<div class="text d-flex align-items-center pt-3 text-center">
-								<div>
-									<h3 class="mb-2">Alicia Henderson</h3>
-									<span class="position mb-4">Graphic Designer</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-			                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-			                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-			              </ul>
-		              </div>
-		            </div>
-							</div>
-						</div>
-					</div>
-				</div>
-    	</div>
-    </section> -->
-
-	<!-- <section class="ftco-section testimony-section" id="testimony-section">
-      <div class="container">
-        <div class="row justify-content-center pb-3">
-          <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <h2 class="mb-4">Happy Clients</h2>
-          </div>
-        </div>
-        <div class="row ftco-animate justify-content-center">
-          <div class="col-md-12">
-            <div class="carousel-testimony owl-carousel ftco-owl">
-              <div class="item">
-                <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text px-4 pb-5">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">John Fox</p>
-                    <span class="position">Businessman</span>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img" style="background-image: url(images/person_2.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text px-4 pb-5">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">John Fox</p>
-                    <span class="position">Businessman</span>
-                  </div>
-                </div>
-              </div>
-               <div class="item">
-                <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img" style="background-image: url(images/person_3.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text px-4 pb-5">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">John Fox</p>
-                    <span class="position">Businessman</span>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img" style="background-image: url(images/person_4.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text px-4 pb-5">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">John Fox</p>
-                    <span class="position">Businessman</span>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img" style="background-image: url(images/person_3.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text px-4 pb-5">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">John Fox</p>
-                    <span class="position">Businessman</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
 
 	<section class="ftco-section bg-light" id="blog-section">
 		<div class="container">
@@ -559,7 +375,7 @@
 			<div class="row d-flex">
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry justify-content-end">
-						<a href="single.html" class="block-20" style="background-image: url('assets/images/image_1.jpg');">
+						<a href="<?= base_url('Home/post1'); ?>" class="block-20" style="background-image: url('assets/images/image_1.jpg');">
 						</a>
 						<div class="text mt-3 float-right d-block">
 							<div class="d-flex align-items-center pt-2 mb-4 topp">
@@ -571,7 +387,7 @@
 									<span class="mos">November</span>
 								</div>
 							</div>
-							<h3 class="heading"><a href="single.html">Awas Penipuan Rekrutmen PT Brilliant Jaya Wood
+							<h3 class="heading"><a href="<?= base_url('Home/post1'); ?>">Awas Penipuan Rekrutmen PT Brilliant Jaya Wood
 									Industry</a></h3>
 							<p>PT Brilliant Jaya Wood Industry tidak pernah memungut biaya apapun dalam proses
 								rekrutmen...</p>
@@ -691,51 +507,29 @@
 				</div>
 			</div>
 			<div class="row no-gutters block-9">
-				<div class="col-md-6 order-md-last d-flex">
-					<form action="#" class="bg-light p-5 contact-form">
-						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Your Name" disabled>
-						</div>
-						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Your Email" disabled>
-						</div>
-						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Subject" disabled>
-						</div>
-						<div class="form-group">
-							<textarea name="" id="" cols="30" rows="7" class="form-control"
-								placeholder="Message" disabled></textarea>
-						</div>
-						<div class="form-group">
-							<input type="submit" value="Send Message (Coming Soon Features)" class="btn btn-primary py-3 px-5">
-						</div>
-					</form>
-
-				</div>
 
 				<div class="col-md-6 d-flex">
 					<div class="mapouter">
 						<div class="gmap_canvas">
-							<iframe width="555" height="558" id="gmap_canvas"
+							<iframe width="1110" height="558" id="gmap_canvas"
 								src="https://maps.google.com/maps?q=KPP100&t=&z=15&ie=UTF8&iwloc=&output=embed"
 								frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
 							</iframe>
-							<a href="https://www.embedgooglemap.net/blog/namecheap-promo-code/">namecheap domain
-								coupon</a>
+							<a href="https://www.embedgooglemap.net/blog/namecheap-promo-code/"></a>
 						</div>
 						<style>
 							.mapouter {
 								position: relative;
 								text-align: right;
 								height: 555px;
-								width: 555px;
+								width: 1110px;
 							}
 
 							.gmap_canvas {
 								overflow: hidden;
 								background: none !important;
 								height: 558px;
-								width: 555px;
+								width: 1110px;
 							}
 						</style>
 					</div>
@@ -767,7 +561,7 @@
 						<ul class="list-unstyled">
 							<li><a href="#home-section"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
 							<li><a href="#about-section"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
-							<li><a href="#company-section"><span class="icon-long-arrow-right mr-2"></span>Company</a>
+							<li><a href="#company-section"><span class="icon-long-arrow-right mr-2"></span>Material</a>
 							</li>
 							<li><a href="#production-section"><span
 										class="icon-long-arrow-right mr-2"></span>Production</a></li>
@@ -780,7 +574,7 @@
 				</div>
 				<div class="col-md">
 					<div class="ftco-footer-widget mb-4">
-						<h2 class="ftco-heading-2">Our Other Career Information</h2>
+						<h2 class="ftco-heading-2">More Career Information</h2>
 						<ul class="list-unstyled">
 							<li><a href="https://www.jobstreet.co.id/en/companies/1268139-pt-brilliant-jaya-wood-industry"
 									target="_blank"><span class="icon-long-arrow-right mr-2"></span>Job Street</a></li>
